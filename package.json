@@ -1,0 +1,6 @@
+{
+  "name": "bquant-pipeline-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static page. No build step."
+}
